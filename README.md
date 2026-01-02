@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishvam Ramani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from gujarat,India</h3>
 
 - 🔭 I’m currently working on [Pricely](https://pricely-lilac.vercel.app/)
 
