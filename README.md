@@ -28,3 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vishvamramani.vishvamramani&"  />
+</div>
